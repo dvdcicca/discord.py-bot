@@ -1,4 +1,7 @@
 # Byte-compiled / optimized / DLL files
+*.db
+*.db-journal
+lib/bot/token.0
 __pycache__/
 *.py[cod]
 *$py.class
